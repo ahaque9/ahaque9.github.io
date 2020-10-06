@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abd521a5-d390-4f80-9673-66e925d23360" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="abd521a5-d390-4f80-9673-66e925d23360" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +18,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="30" />
+          <entry key="html" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="30" />
+          <entry key="HTML" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -77,7 +75,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="261" />
+    <option name="x" value="56" />
     <option name="y" value="23" />
     <option name="width" value="1231" />
     <option name="height" value="859" />
@@ -132,15 +130,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601920727276</updated>
-      <workItem from="1601920734115" duration="4482000" />
+      <workItem from="1601920734115" duration="4664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4482000" />
+    <option name="totallyTimeSpent" value="4664000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="261" y="23" width="1231" height="859" extended-state="0" />
+    <frame x="56" y="23" width="1231" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
